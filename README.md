@@ -8,4 +8,4 @@
 ### 🛠️ Tools Used
 - Microsoft Excel (basic formulas: SUM, AVERAGE, IF, VLOOKUP)
 - QuickBooks Online (experience in bookkeeping & reporting)
-- NetSuite, Microsoft Dynamics GP (hands-on use with U.S. clients
+- NetSuite, Microsoft Dynamics GP (hands-on use with U.S. clients)
